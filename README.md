@@ -2,11 +2,11 @@
 
 Project documentation from my time at the Neural Interaction Lab.
 
-## 📋 Project Purpose
+## Project Purpose
 
 This project explored the use of a Programmable System-on-Chip (PSoC) microcontroller paired with Bluetooth Low Energy (BLE) for mobile, wireless health monitoring. A strain gauge was integrated to measure physiological signals, with analog signal processing handled on-chip by the PSoC. Data was transmitted wirelessly via BLE to a mobile device, demonstrating a compact, low-power solution for real-time health monitoring applications.
 
-## 📦 Deliverables
+## Deliverables
 
 | Item | Format | Description |
 |------|--------|-------------|
@@ -14,7 +14,7 @@ This project explored the use of a Programmable System-on-Chip (PSoC) microcontr
 | **Poster Presentation** | PDF | Visual poster summarizing the project for presentation |
 | **Demo Video** | MP4 | Recorded demonstration of the strain gauge with PSoC BLE analog signal processing |
 
-## 🗂️ Project Files
+## Project Files
 
 | File | Format | Full-Page Link |
 |------|--------|----------------|
