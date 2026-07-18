@@ -19,6 +19,6 @@ This project explored the use of a Programmable System-on-Chip (PSoC) microcontr
 | File | Format | Full-Page Link |
 |------|--------|----------------|
 | Poster Presentation PSOC | PDF | [View Full Page](https://github.com/roman-aguilera/Mobile-Wireless-Health-Monitoring/blob/main/Poster%20Presentation%20PSOC%20-%20Roman%20Aguilera.pdf) |
-| PSOC Research Paper | PDF | [View Full Page](https://github.com/roman-aguilera/Mobile-Wireless-Health-Monitoring/blob/main/Roman%20Aguilera%20-%20PSOC%20Research%20Paper%20.pdf) |
+| PSOC Research Paper | PDF | [View Full Page](https://github.com/roman-aguilera/Mobile-Wireless-Health-Monitoring/blob/main/Roman%20Aguilera%20-%20PSOC%20Research%20Paper.pdf) |
 | Research Paper | DOCX | [Download](https://github.com/roman-aguilera/Mobile-Wireless-Health-Monitoring/raw/main/Roman%20Aguilera%20-%20Research%20Paper.docx) |
 | Demo Video | MP4 | [Watch](https://github.com/roman-aguilera/Mobile-Wireless-Health-Monitoring/raw/main/Strain%20Gauge%20with%20PSOC%20BLE%20Analog%20(2)%20trimmed%20video.mp4) |
